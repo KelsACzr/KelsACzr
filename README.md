@@ -1,11 +1,11 @@
 # Hello, I’m Kelsey A. Caesar, a Technical Support Specialist
-who enjoys solving problems, cleaning up messy systems, and making technology easier for non-technical users. I’m also an aspiring Full Stack Developer, building hands-on projects to better understand how applications and data work together. I’m focused on growing into a well-rounded technical professional who supports users while continuously improving systems.
+who enjoys solving problems, cleaning up messy systems, and making technology easier for non-technical users. I’m also an aspiring Full-Stack Developer, building hands-on projects to better understand how applications and data work together. I’m focused on growing into a well-rounded technical professional who supports users while continuously improving systems.
 
 ## 💾Technical Support Projects:
 - Help Desk Ticketing System Lab (osTicket | Windows Server | IIS) **[In Progress]**
-  - osTicket: Platform Setup & System Requirements
-  - osTicket: Configuration & Operational Readiness
-  - osTicket: Ticket Lifecycle & Resolution Workflow
+  - [osTicket: Phase 1 - Platform Setup & System Requirements](https://github.com/KelsACzr/helpdesk-ticketing-system-osticket/blob/753602bb148656d8e23105d37ebd95ca6a6f1e23/phase-1-setup.md)
+  - osTicket: Phase 2 - Configuration & Operational Readiness
+  - osTicket: Phase 3 - Ticket Lifecycle & Resolution Workflow
 - User & Group Management (Active Directory) **[Not Started]**
 ## 📊MS Excel Projects:
 - Interactive Sales + Performance Dashboard **[In Progress]**
