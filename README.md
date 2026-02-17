@@ -2,10 +2,11 @@
 who enjoys solving problems, cleaning up messy systems, and making technology easier for non-technical users. I’m also an aspiring Full-Stack Developer, building hands-on projects to better understand how applications and data work together. I’m focused on growing into a well-rounded technical professional who supports users while continuously improving systems.
 
 ## 💾Technical Support Projects:
-- Help Desk Ticketing System Lab (osTicket | Windows Server | IIS) **[In Progress]**
+- Help Desk Ticketing System Lab (osTicket | Windows Server | IIS) **[Completed]**
   - [osTicket: Phase 1 - Platform Setup & System Requirements](https://github.com/KelsACzr/helpdesk-ticketing-system-osticket/blob/753602bb148656d8e23105d37ebd95ca6a6f1e23/phase-1-setup.md)
   - [osTicket: Phase 2 - Configuration & Operational Readiness](https://github.com/KelsACzr/helpdesk-ticketing-system-osticket/blob/7c1c4dc61c5a1da4b193f6eeec68c6b649587df8/phase-2-configuration.md)
-  - osTicket: Phase 3 - Ticket Lifecycle & Resolution Workflow
+  - [osTicket: Phase 3 - Ticket Lifecycle & Resolution Workflow](https://github.com/KelsACzr/helpdesk-ticketing-system-osticket/blob/0ab6db0f167a4501b81d1ba2f143d14dd0022fe9/phase%203%20ticket%20workflow.md)
+    
 - User & Group Management (Active Directory) **[Not Started]**
 ## 📊MS Excel Projects:
 - Interactive Sales + Performance Dashboard **[In Progress]**
