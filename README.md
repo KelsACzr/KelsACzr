@@ -70,5 +70,3 @@ including SLA policies, escalation rules, departments, and ticket workflows.
 </p>
 
 <br/>
-
-<p align="center">Thank you for visiting — I appreciate you taking the time to explore my work.</p>
