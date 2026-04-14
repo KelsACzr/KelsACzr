@@ -24,6 +24,7 @@ The aim is to demontrate how a support professioal delivers consistent and measu
 ![SolarWinds](https://img.shields.io/badge/SolarWinds-F89728?style=flat)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14.4-blue?logo=python&logoColor=white)
 
 <br/>
 
