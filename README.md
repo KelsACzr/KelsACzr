@@ -41,9 +41,9 @@ including SLA policies, escalation rules, departments, and ticket workflows.
 
 <br/>
 
-## 📊 Excel & Data Projects
+## 🐍 Python & Automation Projects
 
-#### 🔄 Customer Support Ticket Tracker + SLA Monitor — *In Progress*
+#### 🔄 System Info Reporter — *In Progress*
 
 <br/>
 
