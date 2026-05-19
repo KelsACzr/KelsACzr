@@ -40,7 +40,7 @@ including SLA policies, escalation rules, departments, and ticket workflows.
 
 #### 🔄 User & Group Management Lab (Active Directory) — *In Progress*
 
-<br/>
+- [Phase 1 - Infrastructure Setup](https://github.com/KelsACzr/User-Group-Management-Active-Directory-/blob/965f1cd4206d50063a9b196021fb354d08dc3686/Phase%201%20-%20Infrastructure%20Setup.md)
 
 ## 🐍 Python & Automation Projects
 
