@@ -8,7 +8,7 @@ The projects showcased are designed to simulate the real workflows of a Technica
 
 Each project focuses on practical support tasks such as help desk operations, incident lifecycle management, SLA enforcement, **Active Directory** administration, network device configuration, and IT documentation.
 
-The aim is to demontrate how a support professioal delivers consistent and measurable support outcomes through industry-standard platforms administration tools and structured workflows.
+The aim is to demonstrate how a support professional delivers consistent and measurable support outcomes through industry-standard platforms, administration tools, and structured workflows.
 
 ---
 
@@ -41,6 +41,7 @@ including SLA policies, escalation rules, departments, and ticket workflows.
 #### 🔄 User & Group Management Lab (Active Directory) — *In Progress*
 
 - [Phase 1 - Infrastructure Setup](https://github.com/KelsACzr/User-Group-Management-Active-Directory-/blob/965f1cd4206d50063a9b196021fb354d08dc3686/Phase%201%20-%20Infrastructure%20Setup.md)
+- [Phase 2 - User & Security Group Management](https://github.com/KelsACzr/User-Group-Management-Active-Directory-/blob/77e59b7491345d327347135edb156d985b818c17/Phase%202%3A%20User%20%26%20Group%20Management.md)
 
 ## 🐍 Python & Automation Projects
 
