@@ -42,6 +42,7 @@ including SLA policies, escalation rules, departments, and ticket workflows.
 
 - [Phase 1 - Infrastructure Setup](https://github.com/KelsACzr/User-Group-Management-Active-Directory-/blob/965f1cd4206d50063a9b196021fb354d08dc3686/Phase%201%20-%20Infrastructure%20Setup.md)
 - [Phase 2 - User & Group Management](https://github.com/KelsACzr/User-Group-Management-Active-Directory-/blob/77e59b7491345d327347135edb156d985b818c17/Phase%202%3A%20User%20%26%20Group%20Management.md)
+- [Phase 3 - Group Policy, Access Management, and Common Tasks](https://github.com/KelsACzr/User-Group-Management-Active-Directory-/blob/11b000960b4fd773a7f4ce743e4ac20af564406c/Phase%203-%20Group%20Policy%2C%20Access%20Management%20and%20Common%20Tasks.md)
 
 ## 🐍 Python & Automation Projects
 
