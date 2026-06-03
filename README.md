@@ -38,7 +38,7 @@ including SLA policies, escalation rules, departments, and ticket workflows.
 - [Phase 2 — Configuration & Operational Readiness](https://github.com/KelsACzr/helpdesk-ticketing-system-osticket/blob/7c1c4dc61c5a1da4b193f6eeec68c6b649587df8/phase-2-configuration.md)
 - [Phase 3 — Ticket Lifecycle & Resolution Workflow](https://github.com/KelsACzr/helpdesk-ticketing-system-osticket/blob/0ab6db0f167a4501b81d1ba2f143d14dd0022fe9/phase%203%20ticket%20workflow.md)
 
-#### 🔄 User & Group Management Lab (Active Directory) — *In Progress*
+#### ✅ User & Group Management Lab (Active Directory)
 
 - [Phase 1 - Infrastructure Setup](https://github.com/KelsACzr/User-Group-Management-Active-Directory-/blob/965f1cd4206d50063a9b196021fb354d08dc3686/Phase%201%20-%20Infrastructure%20Setup.md)
 - [Phase 2 - User & Group Management](https://github.com/KelsACzr/User-Group-Management-Active-Directory-/blob/77e59b7491345d327347135edb156d985b818c17/Phase%202%3A%20User%20%26%20Group%20Management.md)
